@@ -4,7 +4,9 @@
         <div class="card">
             <div class="card-image">
                 <figure class="image">
+                    <div class="column is-half is-offset-one-quarter">
                     <img :src="currentImg" alt="Placeholder image">
+                    </div>
                 </figure>
             </div>
             <div class="card-content">
